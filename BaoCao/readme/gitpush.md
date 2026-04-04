@@ -9,6 +9,7 @@ git commit -m "feat: Initial commit with standardized Arduino structure and clea
 git branch -M main
 git remote add origin https://github.com/MyDreamIsHere0511/BallAndBeam-2026.git
 git push -u origin main
+git push -u origin main --force
 ```
 ---
 
@@ -19,7 +20,7 @@ git add .
 ```
 ### Bước 2: Đặt tên cho bản lưu 
 ```bash
-git commit -m "Ví dụ: Fix lỗi cảm biến VL53L0X đọc ảo"
+git commit -m "comment"
 ```
 ### Bước 3: Đẩy thẳng lên máy chủ GitHub
 ```bash
