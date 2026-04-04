@@ -1,0 +1,10 @@
+# Arduino build/temp files
+*.elf
+*.hex
+*.bin
+build/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
